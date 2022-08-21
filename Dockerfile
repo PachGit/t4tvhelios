@@ -1,4 +1,4 @@
-FROM arshsisodiya/helioskirepo:heroku
+FROM dipeshpatil123/dipeshmirror:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
